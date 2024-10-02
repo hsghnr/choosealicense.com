@@ -16,6 +16,7 @@ Terms of service agreements are contracts. That means that this Agreement is a c
 If there's something in these Terms you don't agree with or don't understand, please don't use the Site. By accessing or using the Site, you signal your agreement with and consent to the Terms. By accessing or using any Website or Service you also represent that you have the legal authority to accept the Terms on behalf of yourself and any party you represent in connection with your use of any Website or Service.
 
 Unless otherwise agreed to in writing with GitHub, your use of any Website or Service will always be subject to, at a minimum, the terms and conditions set out in this document.
+<img width="16" alt="image001" src="https://github.com/user-attachments/assets/b6595972-804e-4eba-a241-e697f8cd8358">
 
 ### 3. No legal advice is being provided
 
